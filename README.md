@@ -1,2 +1,2 @@
-# KatlinSamples
+# KotlinSamples
 Examples for Kotlin
